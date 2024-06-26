@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="http://192.168.0.19:9981/xmltv/channels"
+#EXTM3U x-tvg-url="http://raspberrypi.local:9981/xmltv/channels"
 #EXTINF:-1 logo=" " tvg-id="8f1368723ee70775f32b330371a385be",esRadio
 http://raspberrypi.local:9981/stream/channelid/1919423375?profile=pass
 #EXTINF:-1 logo=" " tvg-id="5433e92afb1f0d4b9305457b6f994d50",EUROPA FM
