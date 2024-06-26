@@ -1,0 +1,136 @@
+#EXTM3U
+#EXTM3U x-tvg-url="http://10.42.0.1:9981/xmltv/channels"
+#EXTINF:-1 logo=" " tvg-id="8f1368723ee70775f32b330371a385be",esRadio
+http://10.42.0.1:9981/stream/channelid/1919423375?profile=pass
+#EXTINF:-1 logo=" " tvg-id="5433e92afb1f0d4b9305457b6f994d50",EUROPA FM
+http://10.42.0.1:9981/stream/channelid/719926100?profile=pass
+#EXTINF:-1 logo=" " tvg-id="d7843ccd367069d88249bca874efbce9",Flamenco Radio
+http://10.42.0.1:9981/stream/channelid/1295811799?profile=pass
+#EXTINF:-1 logo=" " tvg-id="18519a491283c0298a08b383abf507f3",HIT FM
+http://10.42.0.1:9981/stream/channelid/1234850072?profile=pass
+#EXTINF:-1 logo=" " tvg-id="0fb531fbcefa5b14bfc2a159696eb72a",Kiss FM
+http://10.42.0.1:9981/stream/channelid/2066855183?profile=pass
+#EXTINF:-1 logo=" " tvg-id="8b0c98c622e38ada10f21f5b58c2f502",MELODIA FM
+http://10.42.0.1:9981/stream/channelid/1184369803?profile=pass
+#EXTINF:-1 logo=" " tvg-id="9f05b54b0cb6367ec3328adda0779d92",ONDA CERO
+http://10.42.0.1:9981/stream/channelid/1270154655?profile=pass
+#EXTINF:-1 logo=" " tvg-id="ebefe421cc455374c09b230dfe609125",R.A.I. Jaén
+http://10.42.0.1:9981/stream/channelid/568651755?profile=pass
+#EXTINF:-1 logo=" " tvg-id="ea701f1b0e3e9a1df16ce883fcef1bfb",Radio 5 RNE
+http://10.42.0.1:9981/stream/channelid/455045354?profile=pass
+#EXTINF:-1 logo=" " tvg-id="8d2afae26762bee458f1494db4083417",RADIO MARCA
+http://10.42.0.1:9981/stream/channelid/1660562061?profile=pass
+#EXTINF:-1 logo=" " tvg-id="2b81d2cdb4965dde7d1a78406f2d7958",RADIO MARIA
+http://10.42.0.1:9981/stream/channelid/1305641259?profile=pass
+#EXTINF:-1 logo=" " tvg-id="c586b9fb8e6dc71e0b45e8a67fa864f0",RADIO TEST 1
+http://10.42.0.1:9981/stream/channelid/2075756229?profile=pass
+#EXTINF:-1 logo=" " tvg-id="a6f963e4dd8601cfee6f844b1d16a2bf",Radio3 HQ RNE
+http://10.42.0.1:9981/stream/channelid/1684273574?profile=pass
+#EXTINF:-1 logo=" " tvg-id="56615fc57e4793117f4f2a7d5e8b2557",Radiolé
+http://10.42.0.1:9981/stream/channelid/1163878742?profile=pass
+#EXTINF:-1 logo=" " tvg-id="64af99f8918da6408bb067f810ce8fd8",RNE Andalucía
+http://10.42.0.1:9981/stream/channelid/2023337828?profile=pass
+#EXTINF:-1 logo=" " tvg-id="25735958b93c1c84cc39cc91104e9a83",Rock FM
+http://10.42.0.1:9981/stream/channelid/1482257189?profile=pass
+#EXTINF:-1 logo=" " tvg-id="543e98311cfe35999b51fe07386d5b59",SER
+http://10.42.0.1:9981/stream/channelid/832061012?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871218" tvg-id="93d27e6d1a8a4380e09e7df1660b3727" tvg-chno="1",La 1 HD
+http://10.42.0.1:9981/stream/channelid/1837027987?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871221" tvg-id="ad08dda140a58281d69381e83a161fbb" tvg-chno="2",La 2 HD
+http://10.42.0.1:9981/stream/channelid/568133805?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871233" tvg-id="e5002450ba8be0577df26749fcd58d8f" tvg-chno="3",antena3 HD
+http://10.42.0.1:9981/stream/channelid/1344536805?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871223" tvg-id="b82aba89d802db166c01821a7b85c3a7" tvg-chno="4",Cuatro HD
+http://10.42.0.1:9981/stream/channelid/163195576?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871208" tvg-id="8721298e218be146d1ea309dcf5aacfc" tvg-chno="5",Telecinco HD
+http://10.42.0.1:9981/stream/channelid/237576583?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871215" tvg-id="407b464068ae814c23a319bef6f61a96" tvg-chno="6",laSexta HD
+http://10.42.0.1:9981/stream/channelid/1078360896?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871209" tvg-id="dfc996dcb6eca71fd319094f22dd0ee1" tvg-chno="7",CanalSurHD
+http://10.42.0.1:9981/stream/channelid/1553385951?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/57" tvg-id="bff8df29d37043f8853ae12a9187a2e2" tvg-chno="8",AndaluciaTV
+http://10.42.0.1:9981/stream/channelid/702544063?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871229" tvg-id="51879c1c867a4b88508321eb6caa008a" tvg-chno="9",DKISS
+http://10.42.0.1:9981/stream/channelid/480020305?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871214" tvg-id="a7b3ebde73efa99df76208292446abd4" tvg-chno="10",TEN
+http://10.42.0.1:9981/stream/channelid/1592505255?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871222" tvg-id="c4e88c55fde9c1139015710babcfda58" tvg-chno="11",BOM
+http://10.42.0.1:9981/stream/channelid/1435297988?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871227" tvg-id="11a68a938c486388769772db35ba775d" tvg-chno="12",PARAMOUNT NETWORK
+http://10.42.0.1:9981/stream/channelid/327853585?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871234" tvg-id="457853c41e1b15df5dfc26a0623d2416" tvg-chno="13",TRECE
+http://10.42.0.1:9981/stream/channelid/1146320965?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871224" tvg-id="0606cc615bd413f2387caf2da7665f4a" tvg-chno="14",atreseries HD
+http://10.42.0.1:9981/stream/channelid/1640760838?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871228" tvg-id="d7572c231b0b72ba030b93f46d12e22c" tvg-chno="15",Clan HD
+http://10.42.0.1:9981/stream/channelid/590108631?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871210" tvg-id="65a05181325e6ebbba5008d5f32a252a" tvg-chno="16",Disney Channel
+http://10.42.0.1:9981/stream/channelid/22126693?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871219" tvg-id="8fc4c7aca065d7e6129a3b4ec1c54f41" tvg-chno="17",Boing
+http://10.42.0.1:9981/stream/channelid/751289487?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871211" tvg-id="646541e4a285ca80fd716c99d56f5590" tvg-chno="18",neox HD
+http://10.42.0.1:9981/stream/channelid/1682007396?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871212" tvg-id="49b23241dc70d8588efd81b3d80b0eab" tvg-chno="19",FDF
+http://10.42.0.1:9981/stream/channelid/1093841481?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871232" tvg-id="7e53cdadcbc2de1720a0e45bc5acbf60" tvg-chno="20",Energy
+http://10.42.0.1:9981/stream/channelid/768430974?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871235" tvg-id="6a6e26e89a818829ab06c11803a2f283" tvg-chno="21",DMAX
+http://10.42.0.1:9981/stream/channelid/1747349098?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871226" tvg-id="1eff237939761f28c2818da32dd1ee81" tvg-chno="22",GOL PLAY HD
+http://10.42.0.1:9981/stream/channelid/2032402206?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871217" tvg-id="596b80f9960fd512a6706d5038d7416c" tvg-chno="23",Realmadrid TV HD
+http://10.42.0.1:9981/stream/channelid/2038459225?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871207" tvg-id="39b1c419d340b0016c8499c7ac40cdec" tvg-chno="24",24h HD
+http://10.42.0.1:9981/stream/channelid/432320825?profile=pass
+#EXTINF:-1 logo=" " tvg-id="02b5d917b2df1e461d76750cc6df9a08" tvg-chno="25",9 La Loma TV
+http://10.42.0.1:9981/stream/channelid/400143618?profile=pass
+#EXTINF:-1 logo=" " tvg-id="931345d2b3d6e6918ea119fa91db3aaf" tvg-chno="26",DIEZ TV UBEDA HD
+http://10.42.0.1:9981/stream/channelid/1380258707?profile=pass
+#EXTINF:-1 logo=" " tvg-id="72b6db7b19a948ef712c29ea0a4db334" tvg-chno="27",7TV LA LOMA
+http://10.42.0.1:9981/stream/channelid/2077996658?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871231" tvg-id="fff31b697786b90e232b57d379837b7e" tvg-chno="29",tdp HD
+http://10.42.0.1:9981/stream/channelid/1763439615?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871218" tvg-id="9c88c3a6cfdfdaf17c09a896b89d8a06" tvg-chno="31",La 1 UHD
+http://10.42.0.1:9981/stream/channelid/650348700?profile=pass
+#EXTINF:-1 logo=" " tvg-id="4b92bab032b2c60c08d46537861d9952" tvg-chno="32",DATA TEST A
+http://10.42.0.1:9981/stream/channelid/817533515?profile=pass
+#EXTINF:-1 logo=" " tvg-id="632bfab8c3c8cc9cebd3347ca9dd50d2" tvg-chno="33",DATA TEST B
+http://10.42.0.1:9981/stream/channelid/955919203?profile=pass
+#EXTINF:-1 logo=" " tvg-id="d8c3a4381c09ae7ae9e2a1d2697eaf56" tvg-chno="34",DATA TEST D
+http://10.42.0.1:9981/stream/channelid/950322136?profile=pass
+#EXTINF:-1 logo=" " tvg-id="822aecd53baeb2304f462df59f3fa6b6" tvg-chno="35",DATA TEST E
+http://10.42.0.1:9981/stream/channelid/1441540738?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871213" tvg-id="0f0229821473b09f7a4c076c36cf5305" tvg-chno="36",nova HD
+http://10.42.0.1:9981/stream/channelid/36241935?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871230" tvg-id="77eb070c92d2e6a655ea35aa72d75fae" tvg-chno="37",BeMad tv HD
+http://10.42.0.1:9981/stream/channelid/201845623?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871225" tvg-id="1fb6259402128eb4ed425c8cb1c8063e" tvg-chno="38",CanalSur2
+http://10.42.0.1:9981/stream/channelid/338015775?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871220" tvg-id="3c8760d5527f3767dc4359f9eda8a1a1" tvg-chno="39",mega HD
+http://10.42.0.1:9981/stream/channelid/1432389436?profile=pass
+#EXTINF:-1 logo="http://10.42.0.1:9981/imagecache/536871216" tvg-id="d9ae475a2abe694e8ece1b5694aa136a" tvg-chno="40",Divinity
+http://10.42.0.1:9981/stream/channelid/1514647257?profile=pass
+#EXTINF:-1 logo=" " tvg-id="82e772307537a21c8c79690ee7d28f0f" tvg-chno="100",7TV LINARES HD
+http://10.42.0.1:9981/stream/channelid/812836738?profile=pass
+#EXTINF:-1 logo=" " tvg-id="695d12cea474550ae4534dde68fb35cf" tvg-chno="100",CADENA 100
+http://10.42.0.1:9981/stream/channelid/1309826409?profile=pass
+#EXTINF:-1 logo=" " tvg-id="90b13de5fc54ccec89a57b4c76ae9fe1" tvg-chno="101",COPE
+http://10.42.0.1:9981/stream/channelid/1698541968?profile=pass
+#EXTINF:-1 logo=" " tvg-id="bc31241c4d62282c3f785dd8d738ccc6" tvg-chno="102",DIAL
+http://10.42.0.1:9981/stream/channelid/472134076?profile=pass
+#EXTINF:-1 logo=" " tvg-id="c1312aa6ee4af784a8976eb7b26d3840" tvg-chno="103",Canal Fiesta R.
+http://10.42.0.1:9981/stream/channelid/640299457?profile=pass
+#EXTINF:-1 logo=" " tvg-id="689fb5888989142f6ee63cb7125d51e2" tvg-chno="105",Radio Exterior RNE
+http://10.42.0.1:9981/stream/channelid/146120552?profile=pass
+#EXTINF:-1 logo=" " tvg-id="0630489094d7b5f1c18922c652c99b25" tvg-chno="106",C.S.R. Jaén
+http://10.42.0.1:9981/stream/channelid/273166342?profile=pass
+#EXTINF:-1 logo=" " tvg-id="b5d51691006d0800d2ee26ce8afe67ff" tvg-chno="110",Radio Clasica HQ RNE
+http://10.42.0.1:9981/stream/channelid/286709173?profile=pass
+#EXTINF:-1 logo=" " tvg-id="40ac8c248e8e84f2631eff45c9d5f0a5" tvg-chno="111",BOM RADIO
+http://10.42.0.1:9981/stream/channelid/613198912?profile=pass
+#EXTINF:-1 logo=" " tvg-id="9909d7164ad65ce65abb8a5f57898abf" tvg-chno="140",LOS40
+http://10.42.0.1:9981/stream/channelid/383191449?profile=pass
+#EXTINF:-1 logo=" " tvg-id="f5d02e38998d6d8b812ce6f059847fa5" tvg-chno="141",LOS40 Classic
+http://10.42.0.1:9981/stream/channelid/942592245?profile=pass
+#EXTINF:-1 logo=" " tvg-id="c7edf1ed4025c6b6375958cd33da3c56" tvg-chno="142",LOS40 Urban
+http://10.42.0.1:9981/stream/channelid/1844571591?profile=pass
